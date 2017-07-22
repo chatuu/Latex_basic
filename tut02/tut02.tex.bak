@@ -1,0 +1,9 @@
+\documentclass[12pt]{article}
+
+\begin{document}
+SuperScripts:
+$$2x^{ax^2+bx+c}$$
+SubScripts:
+$$a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}$$
+
+\end{document}
